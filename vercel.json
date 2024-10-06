@@ -6,12 +6,12 @@
         "dest": "/images/$1"
       },
       {
-        "src": "/(.*)",
-        "dest": "/index.html"
-      },
-      {
         "src": "/styles.css",
         "dest": "/styles.css"
+      },
+      {
+        "src": "/(.*)",
+        "dest": "/index.html"
       }
     ]
   }
