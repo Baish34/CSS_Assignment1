@@ -8,6 +8,10 @@
       {
         "src": "/(.*)",
         "dest": "/index.html"
+      },
+      {
+        "src": "/styles.css",
+        "dest": "/styles.css"
       }
     ]
   }
